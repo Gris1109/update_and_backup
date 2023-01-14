@@ -1,0 +1,36 @@
+INFOBackup sucessfully compeleted
+INFO |Backup sucessfully compeleted 
+
+INFO |Backup sucessfully compeleted 
+
+INFO |Backup sucessfully compeleted 
+
+INFO |Backup sucessfully compeleted 
+
+INFO |Music_dir Backup and system update sucessfully compelected 
+
+INFO |Music_dir Backup and system update sucessfully compelected 
+
+Get:1 http://repo.mysql.com/apt/debian jessie InRelease [28.8 kB]
+Get:2 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Err:1 http://repo.mysql.com/apt/debian jessie InRelease
+  The following signatures were invalid: EXPKEYSIG 8C718D3B5072E1F5 MySQL Release Engineering <mysql-build@oss.oracle.com>
+Hit:3 https://download.docker.com/linux/ubuntu focal InRelease
+Hit:4 http://ng.archive.ubuntu.com/ubuntu focal InRelease
+Get:5 http://ng.archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+Get:6 http://ng.archive.ubuntu.com/ubuntu focal-backports InRelease [108 kB]
+
+
+..........................................
+Hit:1 https://download.docker.com/linux/ubuntu focal InRelease
+Get:2 http://repo.mysql.com/apt/debian jessie InRelease [28.8 kB]
+Hit:3 http://ng.archive.ubuntu.com/ubuntu focal InRelease
+Err:2 http://repo.mysql.com/apt/debian jessie InRelease
+  The following signatures were invalid: EXPKEYSIG 8C718D3B5072E1F5 MySQL Release Engineering <mysql-build@oss.oracle.com>
+Get:4 http://ng.archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+Get:5 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Get:6 http://ng.archive.ubuntu.com/ubuntu focal-backports InRelease [108 kB]
+Get:5 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Reading package lists...
+INFO |Music_dir Backup and system update sucessfully compelected 
+
