@@ -1,22 +1,19 @@
 # Project Title
 
-Simple overview of use/purpose.
+update_and_backup
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A simple python script that runs system update on ubuntu and 
+backups  files from a parent directory/folder
+
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+os, sys, datetime, logging.
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
@@ -41,18 +38,3 @@ ex. Dominique Pizzie
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 
-
-
-TITLE:
-update_and_backup
-
-Description:
-A simple python script that runs system update on ubuntu and 
-backups  files from a parent directory/folder
-
-MODULES: 
-os, sys, datetime, logging.
-
-EXECUTING program:
-how to run the program
-step by step bullets
