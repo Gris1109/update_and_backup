@@ -18,7 +18,7 @@ os, sys, datetime, logging.
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+* Step-by-step bullet
 ```
 code blocks for commands
 ```
