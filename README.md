@@ -19,6 +19,8 @@ os, sys, datetime, logging.
 
 * How to run the program
 * Step-by-step bullet
+
+run the python code
 ```
 code blocks for commands
 ```
