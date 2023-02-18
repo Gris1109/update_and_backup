@@ -21,6 +21,9 @@ os, sys, datetime, logging.
 * Step-by-step bullet
 
 run the python code
+bu.py
+promt to add name of directiory to be backed up, 
+backed up file are stored in the backup directory 
 ```
 code blocks for commands
 
